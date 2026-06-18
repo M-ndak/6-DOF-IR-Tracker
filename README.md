@@ -65,3 +65,10 @@ python bridge/tracker_udp_bridge.py --demo
 ## Dependencies
 - [SparkFun BNO08x Arduino Library](https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library)
 - Python: opencv-python, numpy, pyserial
+
+## Contributors
+
+| Name | Contribution |
+|------|-------------|
+| Mehrak Singh Sachdev |(co-developed) |
+| Shreshth Velani(https://github.com/shreshth153036) | (co-developed) |
